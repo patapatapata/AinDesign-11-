@@ -1,1 +1,1 @@
-# aindesign(11)
+IllustratorのテキストをInDesignに移植するツール
